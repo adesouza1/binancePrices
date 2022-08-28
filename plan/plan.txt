@@ -1,0 +1,2 @@
+Porject Goal: Design a website where you can retrive any Binance price feed you want and set automated text message alerts.
+
